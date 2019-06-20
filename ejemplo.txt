@@ -1,1 +1,2 @@
 version 1 de la prueba de git
+esta es ka version 2 del archivo
